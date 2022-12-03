@@ -1,4 +1,5 @@
 :root{
+    --background: url('https://puu.sh/Jt9GE/29fab6c5f2.png');
     --activetext-colour: white;
 
     --primary1-colour: red;
@@ -602,7 +603,7 @@
 		margin: 0px;
 	}
 	#app-mount .typeWindows-2-g3UY:after {
-		content: "Sage's Test";
+		content: "Sage's Discord";
 		color: rgb(255,255,255,0.5);
 		font-weight: 500;
 
